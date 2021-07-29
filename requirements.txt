@@ -1,0 +1,40 @@
+numpy
+ruamel.yaml
+tqdm
+opencv-python
+#opencv-contrib-python
+matplotlib
+lmdb
+h5py
+#pyyaml
+#numcodecs
+#pydot
+recordclass
+# onnx
+scipy
+scikit-learn
+scikit-image
+seaborn
+tensorboard
+Pillow
+pytorch-ignite
+#--pre pytorch-ignite
+vtk
+torch
+torchvision
+visdom
+PyWavelets
+#kymatio
+#PyQt5
+# git+http://github.com/seveas/python-prctl
+PyQt5==5.14
+mayavi
+xvfbwrapper
+git+https://github.com/tensorpack/dataflow.git
+git+https://github.com/fbcotter/pytorch_wavelets
+#git+https://github.com/enthought/mayavi.git
+# git+https://github.com/inducer/pycuda.git
+einops
+torchsummary
+attr
+attrs

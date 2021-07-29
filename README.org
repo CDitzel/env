@@ -1,0 +1,2 @@
+* Build tools and environment for docker and singularity images. Supports
+  multi-stage builds
